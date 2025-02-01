@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SwapNumber {
+public class SwapVariable {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter A : ");
