@@ -14,5 +14,6 @@ public class PrintPrime {
                 System.out.print(i+" ");
             }
         }
+        System.out.println("");
     }
 }
