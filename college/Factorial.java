@@ -27,10 +27,10 @@ public class Factorial{
         int n = input.nextInt();
 
         //non-recursive factorial
-        System.out.println("Factorial : "+nonRecursiveFactorial(n));
+        System.out.println("Factorial without recursion: "+nonRecursiveFactorial(n));
 
         //recursive factorial
-        System.out.println("Factorial : "+recursiveFactorial(n));
+        System.out.println("Factorial with recursion: "+recursiveFactorial(n));
 
         input.close();
     }
