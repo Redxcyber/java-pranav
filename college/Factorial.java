@@ -32,6 +32,6 @@ public class Factorial{
         //recursive factorial
         System.out.println("Factorial : "+recursiveFactorial(n));
 
-
+        input.close();
     }
 }
